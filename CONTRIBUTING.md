@@ -9,4 +9,4 @@ zrobiłem edit1
 
 a teraz edit2
 
-
+a teraz wprowadzam zmianę na stronie i lokalnie równocześnie
