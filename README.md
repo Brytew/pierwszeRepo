@@ -1,3 +1,4 @@
 # Hello World
 
-Robię edycję pierwszą.
+Wykonuję edycję pierwszą.
+Wykonuję edycję drugą.
