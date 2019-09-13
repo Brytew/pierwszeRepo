@@ -6,4 +6,5 @@
 #### Edycja trzecia - cztery hash
 
 edycja czwarta - bez hahs
+tekst z enterem.
 
