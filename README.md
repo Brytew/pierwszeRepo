@@ -1,9 +1,9 @@
-# Hello World
+# Hello World - nagłówek jeden hash
 
-## Wykonuję edycję pierwszą.
+## Wykonuję edycję pierwszą - 2 hash.
 
-### Wykonuję edycję drugą.
-#### Edycja trzecia - cztery hashs
+### Wykonuję edycję drugą. 3hash
+#### Edycja trzecia - cztery hash
 
 edycja czwarta - bez hahs
 
